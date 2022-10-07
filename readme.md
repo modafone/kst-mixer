@@ -4,8 +4,11 @@
 **KST-Mixer: Kinematic Spatio-Temporal Data Mixer For Colon Shape Estimation**
 
 Masahiro Oda 1, Kazuhiro Furukawa 1, Nassir Navab 2, Kensaku Mori 1
+
 1 Nagoya University, Japan
+
 2 Technical University of Munich, Germany
+
 
 Presented in [AE-CAI | CARE | OR 2.0 Joint MICCAI Workshop 2022](https://workshops.ap-lab.ca/aecai2022/)
 
