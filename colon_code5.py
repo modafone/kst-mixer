@@ -505,7 +505,7 @@ def mainprocess(index_testcase):
             return config
     
     
-    #STMixによる推定モデル
+    #KST Mixerによる推定モデル
     def model_colonshapeestimate6(number_emsensor, number_ctmarker):
         patch_size = 6
         patch_size_time = 3
