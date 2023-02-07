@@ -3,6 +3,9 @@
 ![architecture](./img/architecture.png)
 
 ## About KST-Mixer
+
+[Paper](https://arxiv.org/abs/2302.00899)
+
 Masahiro Oda 1, Kazuhiro Furukawa 1, Nassir Navab 2, Kensaku Mori 1
 
 1 Nagoya University, Japan
